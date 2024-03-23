@@ -1,0 +1,15 @@
+   >>> s = "Welcome to this blog"
+   >>> type(s)
+   <class 'str'>
+   1234567899
+   >>> s += ". Enjoy!"
+   >>> print(s)
+   Welcome to this blog. Enjoy!
+    
+
+     why does it matter and how differently does 
+     Python treat mutable and immutable objects?
+
+     How arguments are passed to functions and 
+     what does that imply for mutable and immutable objects?
+
