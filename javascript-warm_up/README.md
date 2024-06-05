@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 51c2dddb9fed64d743c378a52b16cb6e2d084849
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
